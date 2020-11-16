@@ -12,7 +12,7 @@
     - SKINN: `skinn.py`
     - CLS: `cls.py`
     - SEG: `seg.py`
-    - Model: `model_saved/*.pt`
+    - Model: https://drive.google.com/file/d/1MnE4xOP708KL5V9AFomWbjPEl246ZFFI/view?usp=sharing
 - TODO:
     - [ ] Clean up code.
     - [ ] Upload final report.
