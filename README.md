@@ -1,0 +1,18 @@
+# SKINN
+- **SKINN: Semantic Knowledge Inference Neural Network for COVID-19 Classification**
+    - Course Project, [Data Science for Health (Fall 2020)](https://sites.google.com/dartmouth.edu/data-science-4-health-f20/)
+    - Instructor: [Dr. Temiloluwa Prioleau](https://sites.google.com/dartmouth.edu/t-prioleau)
+    - Author: [Chongyang Gao](https://github.com/GCYZSL), [Pengze Liu](https://github.com/lpzjerry)
+- Related Work:
+    - Inspired by https://github.com/UCSD-AI4H/COVID-CT.
+- Dataset:
+    - [COVID-19 CT Segmentation](https://medicalsegmentation.com/covid19/)
+    - [COVID-19 CT](https://arxiv.org/pdf/2003.13865.pdf)
+- Code:
+    - SKINN: `skinn.py`
+    - CLS: `cls.py`
+    - SEG: `seg.py`
+    - Model: `model_saved/*.pt`
+- TODO:
+    - [ ] Clean up code.
+    - [ ] Upload final report.
